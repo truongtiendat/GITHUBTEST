@@ -13,7 +13,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     NSLog(@"test");
-    //fuck
+    //fuck brank1
     // Override point for customization after application launch.
     return YES;
 }
